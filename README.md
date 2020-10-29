@@ -6,3 +6,8 @@ name----
 email----
 usename----
 follow this syntax
+contributer name-Sanwar Lal
+username-sanwarkode11
+branch-computer science
+email-sanwarkumarlal111@gmail.com
+I declred that i officialy contribute.
